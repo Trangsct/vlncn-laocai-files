@@ -1,0 +1,26 @@
+{
+  "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
+  "cap_nhat": "2026-07-27",
+  "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
+  "bao_cao": [
+    {
+      "doanh_nghiep": "Công ty Cổ phần Khoáng sản Simco - Fansipan",
+      "so_ky_hieu": "30.06/SFC-BC",
+      "loai": "Báo cáo sử dụng vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-06",
+      "ngay_bao_cao": "2026-06-30",
+      "cong_trinh": "Mỏ Mông Sơn VII",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai", "Công an xã Bảo Ái"],
+      "kho": { "so_luong_kho": 1, "dung_tich_kg": 3000 },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ Anfo", "don_vi": "kg", "ton_dau_ky": 1650, "nhap_moi": 2800, "su_dung": 1700, "ton_cuoi_ky": 2750 },
+        { "vat_lieu": "Kíp điện K8", "don_vi": "cái", "ton_dau_ky": 2162, "nhap_moi": 0, "su_dung": 182, "ton_cuoi_ky": 1980 },
+        { "vat_lieu": "Dây nổ chịu nước", "don_vi": "m", "ton_dau_ky": 3400, "nhap_moi": 0, "su_dung": 500, "ton_cuoi_ky": 2900 }
+      ],
+      "chi_tieu_thuoc_no_don_vi": "0,27 / 0,3 (thực hiện / thiết kế)",
+      "kho_khan_vuong_mac": "Không",
+      "file": "uploads/bao_cao/30.06_SFC-BC.pdf",
+      "ghi_chu": "Bản scan gồm 4 trang: 2 trang báo cáo sử dụng VLNCN tháng 6/2026 + 2 trang Phiếu thu thập thông tin về sản xuất của doanh nghiệp (Phiếu 01-ĐTCNT)"
+    }
+  ]
+}
