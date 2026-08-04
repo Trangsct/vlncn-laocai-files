@@ -1,8 +1,45 @@
 {
   "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
-  "cap_nhat": "2026-07-27",
+  "cap_nhat": "2026-08-04",
   "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
   "bao_cao": [
+    {
+      "doanh_nghiep": "Công ty TNHH Huy Hoàng Lục Yên",
+      "so_ky_hieu": "45/2026/BC-HHLY",
+      "loai": "Báo cáo sử dụng vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-07",
+      "ngay_bao_cao": "2026-08-01",
+      "cong_trinh": "Khai thác đá làm vật liệu xây dựng thông thường — xã Lục Yên, tỉnh Lào Cai",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "kho": { "so_luong_kho": 1, "dung_tich_kg": 5000 },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ Amonit AD1 Ø60", "don_vi": "kg", "ton_dau_ky": 125, "nhap_moi": 240, "su_dung": 113, "ton_cuoi_ky": 252 },
+        { "vat_lieu": "Thuốc nổ ANFO (bao 25 kg)", "don_vi": "kg", "ton_dau_ky": 125, "nhap_moi": 1200, "su_dung": 250, "ton_cuoi_ky": 1075 },
+        { "vat_lieu": "Kíp điện K8", "don_vi": "cái", "ton_dau_ky": 883, "nhap_moi": 0, "su_dung": 144, "ton_cuoi_ky": 739 },
+        { "vat_lieu": "Kíp vi sai", "don_vi": "cái", "ton_dau_ky": 105, "nhap_moi": 0, "su_dung": 44, "ton_cuoi_ky": 61 },
+        { "vat_lieu": "Dây cháy chậm", "don_vi": "m", "su_dung": 0 },
+        { "vat_lieu": "Dây nổ", "don_vi": "m", "su_dung": 0 },
+        { "vat_lieu": "Dây dẫn nổ các loại", "don_vi": "m", "su_dung": 0 }
+      ],
+      "tien_chat_thuoc_no": "Không có",
+      "san_xuat": {
+        "nguon": "Phiếu 01-ĐTCNT (Tổng cục Thống kê) tháng 07/2026",
+        "san_pham": "Đá làm vật liệu xây dựng thông thường",
+        "don_vi": "m3",
+        "ton_kho_dau_thang": 1444.742,
+        "san_xuat_trong_thang": 1950.0,
+        "tieu_thu_trong_thang": 1434.5,
+        "gia_tri_trieu_dong": 352,
+        "du_kien_sx_thang_sau": 2000,
+        "so_ngay_hoat_dong": 26,
+        "so_lao_dong": 17
+      },
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/45_BC-HHLY.pdf",
+      "ghi_chu": "Bản scan gồm 5 trang: 4 trang báo cáo VLNCN tháng 7/2026 (kỳ 01/7–31/7/2026, theo TT 23/2024/TT-BCT) + 1 trang Phiếu 01-ĐTCNT. Kho 01 nhà, dung tích 05 tấn, xây theo QCVN 02:2008/BCT, bảo vệ 03 người 24/24h. Báo cáo không nêu tên mỏ cụ thể; công trình suy ra từ địa chỉ và sản phẩm trong Phiếu 01-ĐTCNT."
+    },
     {
       "doanh_nghiep": "Công ty Cổ phần Khoáng sản Simco - Fansipan",
       "so_ky_hieu": "30.06/SFC-BC",
