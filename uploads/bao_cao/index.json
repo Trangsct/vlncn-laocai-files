@@ -1,8 +1,56 @@
 {
   "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
-  "cap_nhat": "2026-08-04",
+  "cap_nhat": "2026-08-07",
   "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
   "bao_cao": [
+    {
+      "doanh_nghiep": "Công ty cổ phần khoáng sản Yên Phú Đông Đô - BQP",
+      "so_ky_hieu": "68/BC-VLNCN",
+      "loai": "Báo cáo tình hình hoạt động vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-07",
+      "ngay_bao_cao": "2026-08-04",
+      "giay_phep": "GP sử dụng VLNCN số 01/GP-ATMT ngày 17/01/2022 (Cục Kỹ thuật an toàn và Môi trường công nghiệp cấp)",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "dau_den_sct": { "so": 16096, "ngay": "2026-08-05" },
+      "kho": {
+        "so_luong_kho": 0,
+        "ghi_chu": "Thuê kho chứa VLNCN của Công ty cổ phần Yên Phú theo Hợp đồng thuê kho số 01/2024/HĐTK/YP-YPĐĐ ngày 01/12/2023; sức chứa: thuốc nổ 3.000 kg, kíp nổ 10.000 cái, dây cháy chậm 15.000 m"
+      },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ NT 32", "don_vi": "kg", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Thuốc nổ P113", "don_vi": "kg", "su_dung": 6156, "ton_cuoi_ky": 510.4 },
+        { "vat_lieu": "Kíp đốt K8", "don_vi": "cái", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp vi sai 4,5m", "don_vi": "cái", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp vi sai 3m", "don_vi": "cái", "su_dung": 10044, "ton_cuoi_ky": 2860 },
+        { "vat_lieu": "Dây cháy chậm", "don_vi": "m", "su_dung": 0, "ton_cuoi_ky": 0 }
+      ],
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/68_BC-VLNCN.pdf",
+      "ghi_chu": "Bản scan 3 trang, Giám đốc Nguyễn Đăng Vinh ký, ngày 04/8/2026 tại Lào Cai. Báo cáo theo TT 23/2024/TT-BCT; mục 2 xác nhận đã ban hành nội quy, đánh giá rủi ro, PANM, hộ chiếu nổ mìn, kế hoạch ứng cứu khẩn cấp, thông báo chính quyền địa phương. Báo cáo không nêu tên mỏ/công trình cụ thể."
+    },
+    {
+      "doanh_nghiep": "Công ty cổ phần Yên Phú",
+      "so_ky_hieu": "83/BC-YP-VLNCN",
+      "loai": "Báo cáo tình hình hoạt động sử dụng vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-07",
+      "ngay_bao_cao": "2026-08-03",
+      "giay_phep": "GP sử dụng VLNCN số 88/GP-SCT ngày 09/01/2025 (Sở Công Thương tỉnh Yên Bái cấp)",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "dau_den_sct": { "so": 16097, "ngay": "2026-08-05" },
+      "kho": { "so_luong_kho": 1, "dung_tich_kg": 7500 },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ nhũ tương", "don_vi": "kg", "su_dung": 11826, "ton_cuoi_ky": 3401.7 },
+        { "vat_lieu": "Kíp vi sai 4,5m", "don_vi": "cái", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp vi sai 3m", "don_vi": "cái", "su_dung": 21060, "ton_cuoi_ky": 7595 }
+      ],
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/83_BC-YP-VLNCN.pdf",
+      "ghi_chu": "Bản scan 2 trang, Giám đốc Nguyễn Xuân Nhật ký, ngày 03/8/2026 tại Nghĩa Lộ. Báo cáo theo TT 23/2024/TT-BCT; GP do SCT Yên Bái (cũ) cấp trước sáp nhập, còn hiệu lực. Kho 01 nhà sức chứa 7.500 kg thuốc nổ và phụ kiện. Báo cáo không nêu tên mỏ/công trình cụ thể."
+    },
     {
       "doanh_nghiep": "Công ty TNHH Huy Hoàng Lục Yên",
       "so_ky_hieu": "45/2026/BC-HHLY",
