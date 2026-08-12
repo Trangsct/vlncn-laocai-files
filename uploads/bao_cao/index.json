@@ -1,8 +1,36 @@
 {
   "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
-  "cap_nhat": "2026-08-07",
+  "cap_nhat": "2026-08-12",
   "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
   "bao_cao": [
+    {
+      "doanh_nghiep": "Doanh nghiệp tư nhân Than đá Suối Bắc",
+      "so_ky_hieu": "26/2026",
+      "loai": "Báo cáo về tình hình hoạt động sử dụng vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-07",
+      "ngay_bao_cao": "2026-08-02",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "dau_den_sct": { "so": 16559, "ngay": "2026-08-11" },
+      "kho": {
+        "so_luong_kho": 1,
+        "dung_tich_kg": 3000,
+        "ghi_chu": "01 kho chứa thuốc nổ công suất 3.000 kg và phụ kiện nổ tương ứng; hiện tại doanh nghiệp không sử dụng"
+      },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ AD1 ø60", "don_vi": "kg", "su_dung": 336, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Thuốc nổ Anfo", "don_vi": "kg", "su_dung": 6450, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Thuốc nổ NT ø60", "don_vi": "kg", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Thuốc nổ NT ø80", "don_vi": "kg", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp nổ điện số 8", "don_vi": "cái", "su_dung": 588, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp nổ điện vi sai", "don_vi": "cái", "su_dung": 1151, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Dây nổ", "don_vi": "m", "su_dung": 1100, "ton_cuoi_ky": 0 }
+      ],
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/26_2026_BC-SuoiBac.pdf",
+      "ghi_chu": "Bản scan 2 trang, Giám đốc Bùi Thị Thoa ký, ngày 02/8/2026 tại Lào Cai. Báo cáo lũy kế 7 tháng đầu năm 2026: số liệu sử dụng và nhập VLNCN theo từng tháng 01–07/2026, tồn kho bằng 0 từ 31/3/2026 (sau khi trừ kỳ nhập-sử dụng tháng 6–7 cân bằng nhau). Lập theo Thông tư 13/2018/TT-BCT ngày 15/6/2018 và văn bản 1905/SCT-KTATMT ngày 06/8/2024. Mục 2: đã ban hành nội quy, quy trình; đánh giá rủi ro đang thực hiện; phương án nổ mìn và hộ chiếu nổ mìn thực hiện đầy đủ; kế hoạch ứng cứu khẩn cấp đã thực hiện; đã thông báo UBND cấp tỉnh. Văn bản chỉ ghi 'Số: 26/2026' không có ký hiệu, tên file thêm hậu tố BC-SuoiBac để dễ nhận biết. Báo cáo không nêu tên mỏ/công trình cụ thể."
+    },
     {
       "doanh_nghiep": "Công ty cổ phần khoáng sản Yên Phú Đông Đô - BQP",
       "so_ky_hieu": "68/BC-VLNCN",
