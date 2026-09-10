@@ -1,6 +1,6 @@
 {
   "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
-  "cap_nhat": "2026-08-12",
+  "cap_nhat": "2026-09-10",
   "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
   "bao_cao": [
     {
@@ -134,6 +134,27 @@
       "kho_khan_vuong_mac": "Không",
       "file": "uploads/bao_cao/30.06_SFC-BC.pdf",
       "ghi_chu": "Bản scan gồm 4 trang: 2 trang báo cáo sử dụng VLNCN tháng 6/2026 + 2 trang Phiếu thu thập thông tin về sản xuất của doanh nghiệp (Phiếu 01-ĐTCNT)"
+    },
+    {
+      "doanh_nghiep": "Công ty cổ phần Yên Phú",
+      "so_ky_hieu": "90/BC-YP-VLNCN",
+      "loai": "Báo cáo tình hình hoạt động sử dụng vật liệu nổ công nghiệp",
+      "ky_bao_cao": "2026-08",
+      "ngay_bao_cao": "2026-09-03",
+      "giay_phep": "GP sử dụng VLNCN số 88/GP-SCT ngày 09/01/2025 (Sở Công Thương tỉnh Yên Bái cấp)",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "dau_den_sct": { "so": 18675, "ngay": "2026-09-08" },
+      "kho": { "so_luong_kho": 1, "dung_tich_kg": 7500 },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ nhũ tương", "don_vi": "kg", "su_dung": 10774.8, "ton_cuoi_ky": 3066.9 },
+        { "vat_lieu": "Kíp vi sai 4,5m", "don_vi": "cái", "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Kíp vi sai 3m", "don_vi": "cái", "su_dung": 19188, "ton_cuoi_ky": 7407 }
+      ],
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/90_BC-YP-VLNCN.pdf",
+      "ghi_chu": "Bản scan 2 trang, Giám đốc Nguyễn Xuân Nhật ký, ngày 03/9/2026 tại Nghĩa Lộ. Báo cáo theo TT 23/2024/TT-BCT; GP do SCT Yên Bái (cũ) cấp trước sáp nhập, còn hiệu lực. Kho 01 nhà sức chứa 7.500 kg thuốc nổ và phụ kiện. Bảng báo cáo có sẵn cột Thuốc nổ AD1, Thuốc nổ P113, Kíp đốt K8, Dây cháy chậm nhưng doanh nghiệp bỏ trống (không phát sinh). Mục 2 xác nhận đã ban hành nội quy, quy định; lập báo cáo đánh giá rủi ro; xây dựng phương án nổ mìn, hộ chiếu nổ mìn, phương án ứng cứu khẩn cấp; lưu trữ chứng từ và đã thông báo chính quyền địa phương. Báo cáo không nêu tên mỏ/công trình cụ thể."
     }
   ]
 }
