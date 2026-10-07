@@ -1,6 +1,6 @@
 {
   "mo_ta": "Chỉ mục báo cáo định kỳ của doanh nghiệp sử dụng VLNCN — dùng cho cột 'Báo cáo' trên trang vlncn-laocai",
-  "cap_nhat": "2026-09-10",
+  "cap_nhat": "2026-10-07",
   "goc_file": "https://raw.githubusercontent.com/Trangsct/vlncn-laocai-files/main/uploads/bao_cao/",
   "bao_cao": [
     {
@@ -155,6 +155,33 @@
       "de_xuat_kien_nghi": "Không",
       "file": "uploads/bao_cao/90_BC-YP-VLNCN.pdf",
       "ghi_chu": "Bản scan 2 trang, Giám đốc Nguyễn Xuân Nhật ký, ngày 03/9/2026 tại Nghĩa Lộ. Báo cáo theo TT 23/2024/TT-BCT; GP do SCT Yên Bái (cũ) cấp trước sáp nhập, còn hiệu lực. Kho 01 nhà sức chứa 7.500 kg thuốc nổ và phụ kiện. Bảng báo cáo có sẵn cột Thuốc nổ AD1, Thuốc nổ P113, Kíp đốt K8, Dây cháy chậm nhưng doanh nghiệp bỏ trống (không phát sinh). Mục 2 xác nhận đã ban hành nội quy, quy định; lập báo cáo đánh giá rủi ro; xây dựng phương án nổ mìn, hộ chiếu nổ mìn, phương án ứng cứu khẩn cấp; lưu trữ chứng từ và đã thông báo chính quyền địa phương. Báo cáo không nêu tên mỏ/công trình cụ thể."
+    },
+    {
+      "doanh_nghiep": "Công ty TNHH Huy Hoàng Lục Yên",
+      "so_ky_hieu": "51/2026/BC-HHLY",
+      "loai": "Báo cáo tình hình hoạt động quản lý, bảo quản, cung ứng và sử dụng VLNCN",
+      "ky_bao_cao": "2026-09",
+      "ngay_bao_cao": "2026-10-01",
+      "cong_trinh": "Khai thác đá làm vật liệu xây dựng thông thường — xã Lục Yên, tỉnh Lào Cai",
+      "noi_nhan": ["Sở Công Thương tỉnh Lào Cai"],
+      "dau_den_sct": { "so": 21170, "ngay": "2026-10-06" },
+      "kho": { "so_luong_kho": 1, "dung_tich_kg": 5000 },
+      "su_dung": [
+        { "vat_lieu": "Thuốc nổ Amonit AD1 Ø60", "don_vi": "kg", "ton_dau_ky": 199, "nhap_moi": 0, "su_dung": 43, "ton_cuoi_ky": 156 },
+        { "vat_lieu": "Thuốc nổ ANFO (bao 25 kg)", "don_vi": "kg", "ton_dau_ky": 675, "nhap_moi": 0, "su_dung": 475, "ton_cuoi_ky": 200 },
+        { "vat_lieu": "Kíp điện K8", "don_vi": "cái", "ton_dau_ky": 599, "nhap_moi": 0, "su_dung": 261, "ton_cuoi_ky": 338 },
+        { "vat_lieu": "Kíp vi sai", "don_vi": "cái", "ton_dau_ky": 0, "nhap_moi": 0, "su_dung": 0, "ton_cuoi_ky": 0 },
+        { "vat_lieu": "Dây cháy chậm", "don_vi": "m", "su_dung": 0 },
+        { "vat_lieu": "Dây nổ", "don_vi": "m", "su_dung": 0 },
+        { "vat_lieu": "Dây dẫn nổ các loại", "don_vi": "m", "su_dung": 0 }
+      ],
+      "tien_chat_thuoc_no": "Không có",
+      "san_xuat": { "nguon": "Phiếu 01-ĐTCNT (Tổng cục Thống kê) tháng 09/2026", "san_pham": "Đá làm vật liệu xây dựng thông thường", "don_vi": "m3", "ton_kho_dau_thang": 1233.342, "san_xuat_trong_thang": 3470.0, "tieu_thu_trong_thang": 4446.18, "gia_tri_trieu_dong": 1048.4, "du_kien_sx_thang_sau": 2800, "so_ngay_hoat_dong": 26, "so_lao_dong": 17 },
+      "su_co_that_thoat": "Không",
+      "kho_khan_vuong_mac": "Không",
+      "de_xuat_kien_nghi": "Không",
+      "file": "uploads/bao_cao/51_BC-HHLY.pdf",
+      "ghi_chu": "Bản scan 5 trang: 4 trang báo cáo VLNCN tháng 9/2026 (kỳ 01/9–30/9/2026, theo TT 23/2024/TT-BCT) + 1 trang Phiếu 01-ĐTCNT. Giám đốc Nguyễn Quốc Huy ký ngày 01/10/2026 tại Lục Yên; đến Sở số 21170 ngày 06/10/2026. Kho 01 nhà, dung tích 05 tấn, xây theo QCVN 02:2008/BCT, bảo vệ 03 người 24/24h; trong kỳ không nhập mới, không dùng kíp vi sai. Mục 2 xác nhận có nội quy, đánh giá rủi ro, phương án nổ mìn, hộ chiếu nổ mìn, kế hoạch ứng cứu khẩn cấp, biện pháp phòng ngừa ứng phó sự cố hóa chất (Sở Công Thương xác nhận), bảo hiểm cháy nổ bắt buộc, kiểm định máy nổ mìn. Mục 4, 5 để trống. Tồn đầu kỳ kíp điện K8 (599) khác tồn cuối tháng 7 (739) vì chưa có báo cáo tháng 8/2026 trên trang. Số liệu Phiếu 01-ĐTCNT viết tay (tiêu thụ 4.446,18 m3, giá trị 1.048,4 triệu đồng)."
     }
   ]
 }
